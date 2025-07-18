@@ -13,9 +13,7 @@ Built using:
 ## 🎬 Demo Video
 
 ▶️ Watch the full walkthrough here:  
-**[🔗 YouTube Demo](https://youtu.be/YOUR_DEMO_LINK)**
-
-[![Watch on YouTube](https://img.youtube.com/vi/YOUR_DEMO_LINK/hqdefault.jpg)](https://youtu.be/YOUR_DEMO_LINK)
+**[🔗 YouTube Demo](https://youtu.be/X7v3r7xscCE)**
 
 ---
 
